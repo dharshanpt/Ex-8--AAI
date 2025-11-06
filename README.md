@@ -1,5 +1,5 @@
- <H3>NAME : Ragul M </H3>
-<H3>REGISTER NO.: 212221230080 </H3>
+ <H3>NAME : DHARSHAN PT </H3>
+<H3>REGISTER NO.: 212223230046 </H3>
 <H3>EX. NO.8</H3>
 <H1 ALIGN =CENTER>Implementation of Speech Recognition</H1>
 <H3>Aim:</H3> 
